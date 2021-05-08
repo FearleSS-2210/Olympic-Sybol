@@ -1,0 +1,18 @@
+
+h1
+{
+	color: rgb(43, 31, 148); 
+	font-size: 40px;
+}
+.body_backgorund {
+	background-color: black;
+	background-position: center;
+	background-size: cover;
+}
+
+#myCanvas{
+  border: 10px;
+  background-color: darkcyan;
+  border-style: ridge;
+  background-color: grey;
+}
